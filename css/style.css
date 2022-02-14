@@ -1230,6 +1230,16 @@ body.ie ._ibg img {
   background: #E5E5E5;
 }
 
+.map {
+  width: 100%;
+  height: 636px;
+  background-color: gray;
+}
+
+[class*=copyrights-pane] {
+  display: none !important;
+}
+
 .footer {
   background: #252525;
   color: #FFFFFF;
